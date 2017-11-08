@@ -7,5 +7,5 @@ get '/' do
 end
 
 get '/wyncode' do
-  'Hello World'
+  'Hello Wyncode'
 end
